@@ -1,0 +1,4 @@
+*.idea/
+venv/
+*DS.Store
+__pycahe__/
